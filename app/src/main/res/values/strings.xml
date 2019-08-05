@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YTConverter</string>
+    <string name="enter_your_url">Enter your url</string>
+    <string name="convert">Convert</string>
+</resources>
